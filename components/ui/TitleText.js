@@ -15,6 +15,8 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     borderColor: Colors.accent500,
     padding: 20,
-    borderRadius: 6
+    borderRadius: 6,
+    maxWidth: "80%",
+    width: 300
   },
 });
